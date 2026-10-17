@@ -31,7 +31,7 @@ Go to **[Releases](../../releases/latest)** and download `StS80_IconRig.exe`.
 **Icon check**
 - Shows real defects in any icon: blown-up blurry layers, missing 256 x 256, sizes Windows never asks for, duplicates.
 
-**Also:** live preview on a light and dark taskbar and in an Explorer list, 7 languages, 5 themes.
+**Also:** live preview on a light and dark taskbar and in an Explorer list, 7 languages, 5 themes + 1 unmapped deep-space signal (try typing the right words).
 
 ## Privacy
 
