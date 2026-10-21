@@ -66,4 +66,5 @@ Copying, modifying, decompiling, rebranding or redistributing it, in whole or in
 
 ## Links
 
-Website: **bugmob.com**
+- Website: [bugmob.com/iconrig](https://bugmob.com/iconrig?iz=github)
+- Microsoft Store: [StS80 IconRig](https://apps.microsoft.com/detail/9N978VZ263Z9)
