@@ -11,7 +11,7 @@ Go to **[Releases](../../releases/latest)** and download `StS80_IconRig.exe`.
 
 - Windows 10 / 11
 - Needs .NET Framework 4.8, which is already part of Windows 10 and 11
-- One file, about 400 KB. Just run it.
+- One file, about 383 KB. Just run it.
 
 ## What it does
 
@@ -59,10 +59,11 @@ Click **More info**, then **Run anyway**, after you have checked the hash above.
 
 ## License
 
-Free for personal and commercial use. **Icons you create with it are entirely yours.**
+Free for personal and commercial use. Icons you create with it are entirely yours.
 
-The program itself is © 2026 BugMob. All rights reserved. The source code is not published.
-Copying, modifying, decompiling, rebranding or redistributing it, in whole or in part, needs written permission from the author.
+© 2026 BugMob. All rights reserved. The source code is not published. Modifying, decompiling, rebranding, selling or redistributing the program, in whole or in part, requires written permission from the author. Provided “as is”, without warranty.
+
+Full terms: https://bugmob.com/terms
 
 ## Links
 
