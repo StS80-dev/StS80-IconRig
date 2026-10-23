@@ -3,7 +3,7 @@
 **Make Windows `.ico` files from images, and read or replace the icons inside EXE and DLL files.**
 Portable. Free. No installer, no internet.
 
-<img width="1400" height="1150" alt="iconrig-screenshot" src="https://github.com/user-attachments/assets/02b1d2cc-f725-436c-ad08-654b41121c5d" />
+<img width="1400" height="1150" alt="StS80 IconRig making a Windows .ico icon" src="https://github.com/user-attachments/assets/02b1d2cc-f725-436c-ad08-654b41121c5d" />
 
 ## Download
 
